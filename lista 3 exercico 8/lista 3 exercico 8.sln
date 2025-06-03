@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista 3 exercico 8", "lista 3 exercico 8\lista 3 exercico 8.csproj", "{BCF4E15C-84AC-40E3-A037-4E8F804E8232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF4E15C-84AC-40E3-A037-4E8F804E8232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF4E15C-84AC-40E3-A037-4E8F804E8232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF4E15C-84AC-40E3-A037-4E8F804E8232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF4E15C-84AC-40E3-A037-4E8F804E8232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA77E89-1E2A-46ED-B536-F81CFBD6C270}
+	EndGlobalSection
+EndGlobal

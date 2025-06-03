@@ -1,0 +1,7 @@
+C:\Users\Miche\source\repos\lista 3 exercico 8\lista 3 exercico 8\bin\Debug\lista 3 exercico 8.exe.config
+C:\Users\Miche\source\repos\lista 3 exercico 8\lista 3 exercico 8\bin\Debug\lista 3 exercico 8.exe
+C:\Users\Miche\source\repos\lista 3 exercico 8\lista 3 exercico 8\bin\Debug\lista 3 exercico 8.pdb
+C:\Users\Miche\source\repos\lista 3 exercico 8\lista 3 exercico 8\obj\Debug\lista 3 exercico 8.csproj.AssemblyReference.cache
+C:\Users\Miche\source\repos\lista 3 exercico 8\lista 3 exercico 8\obj\Debug\lista 3 exercico 8.csproj.CoreCompileInputs.cache
+C:\Users\Miche\source\repos\lista 3 exercico 8\lista 3 exercico 8\obj\Debug\lista 3 exercico 8.exe
+C:\Users\Miche\source\repos\lista 3 exercico 8\lista 3 exercico 8\obj\Debug\lista 3 exercico 8.pdb
